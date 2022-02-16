@@ -2,8 +2,13 @@
 content_type: resource
 description: This file contains the information regarding History and Overview of
   the Pharmaceutical / Biotechnology Industry, Lecture 3.
-file: /media/https%3A/open-learning-course-data-rc.s3.amazonaws.com/15-136j-principles-and-practice-of-drug-development-fall-2013/dc7b6c4eb23e4d2494d597d32135ce6f_MIT15_136JF13_Lec3_Hist.pdf
+file: /media/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/dc7b6c4eb23e4d2494d597d32135ce6f_MIT15_136JF13_Lec3_Hist.pdf
 file_type: application/pdf
+learning_resource_types:
+- Lecture Notes
+ocw_type: OCWFile
+parent_title: Lecture Notes
+parent_type: CourseSection
 resourcetype: Document
 title: History and Overview of the Pharmaceutical/Biotechnology Industry, Lecture
   3

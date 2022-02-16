@@ -1,5 +1,7 @@
 ---
 content_type: page
+learning_resource_types: []
+ocw_type: CourseSection
 title: News of the Week
 uid: eae3c8f3-9ba0-a705-977f-8f1da2ae956a
 ---
