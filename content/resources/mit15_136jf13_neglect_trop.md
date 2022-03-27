@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 79b8d1fc-f941-79ee-5b85-643d83cdc816
 resourcetype: Document
 title: Opportunities in Neglected/Tropical Diseases
 uid: 13a16f3c-3ce5-dd73-5d52-9cabeca636ff

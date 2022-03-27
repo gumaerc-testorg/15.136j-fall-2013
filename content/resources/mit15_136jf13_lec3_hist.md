@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1eac8332-a257-5ff0-1d5d-4704fdeb1aa2
 resourcetype: Document
 title: History and Overview of the Pharmaceutical/Biotechnology Industry, Lecture
   3

@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
+parent_uid: 79b8d1fc-f941-79ee-5b85-643d83cdc816
 resourcetype: Document
 title: Opportunities in Diabetes
 uid: 8190f61c-9874-b057-a389-059043ffa23a

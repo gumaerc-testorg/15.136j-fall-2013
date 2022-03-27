@@ -9,6 +9,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1eac8332-a257-5ff0-1d5d-4704fdeb1aa2
 resourcetype: Document
 title: Manufacturing in the Pharmaceutical Value Chain
 uid: 78ff239c-67be-95e8-6336-9d8a9852493b

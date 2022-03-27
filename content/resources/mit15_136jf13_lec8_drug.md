@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
+parent_uid: 1eac8332-a257-5ff0-1d5d-4704fdeb1aa2
 resourcetype: Document
 title: Drug Regulation and Reimbursement
 uid: 69a7ce2b-aad1-be4b-451c-41b9070933b1
