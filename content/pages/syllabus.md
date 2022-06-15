@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This syllabus section provides information on course meeting times, prerequisites,
+  readings, requirements, and grading.
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus
@@ -19,7 +21,7 @@ There are no formal prerequisites for this course. Enrollment in this course req
 Readings
 --------
 
-There is no single textbook for the class, but a substantial selection of journal articles and news items are listed in the [readings]({{< baseurl >}}/pages/readings) section.
+There is no single textbook for the class, but a substantial selection of journal articles and news items are listed in the {{% resource_link 2947c805-f872-6255-a8f2-ca8b8a286944 "readings" %}} section.
 
 Course Requirements
 -------------------

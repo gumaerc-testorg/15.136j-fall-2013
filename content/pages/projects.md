@@ -1,5 +1,7 @@
 ---
 content_type: page
+description: This section contains details on the final project of the course, including
+  objectives, deliverables, and sample topics.
 learning_resource_types:
 - Projects
 ocw_type: CourseSection
@@ -44,11 +46,11 @@ Topics
 
 Below is a list of sample topics for the final project. Descriptions are provided where available.
 
-[Opportunities in Cancer (PDF)]({{< baseurl >}}/resources/mit15_136jf13_opp_cancer)
+{{% resource_link d114a2b0-accf-6c18-1134-757977d03a7a "Opportunities in Cancer (PDF)" %}}
 
-[Opportunities in Diabetes (PDF)]({{< baseurl >}}/resources/mit15_136jf13_opp_diab)
+{{% resource_link 8190f61c-9874-b057-a389-059043ffa23a "Opportunities in Diabetes (PDF)" %}}
 
-[Opportunities in Neurological Diseases (PDF)]({{< baseurl >}}/resources/mit15_136jf13_opp_neuro_dis)
+{{% resource_link 8bf8d8ef-89fd-c4f9-1768-173b37374364 "Opportunities in Neurological Diseases (PDF)" %}}
 
 Opportunities in Cardiovascular Diseases
 
@@ -66,4 +68,4 @@ Stem Cells
 
 Clinical Trials in Developing Countries
 
-[Opportunities in Neglected / Tropical Diseases (PDF)]({{< baseurl >}}/resources/mit15_136jf13_neglect_trop)
+{{% resource_link 13a16f3c-3ce5-dd73-5d52-9cabeca636ff "Opportunities in Neglected / Tropical Diseases (PDF)" %}}
