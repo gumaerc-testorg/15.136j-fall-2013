@@ -1,5 +1,11 @@
 ---
 content_type: page
+description: This section provides a description of a team assignment to present to
+  the class a summary of the latest developments related to pharmaceuticals that are
+  covered in the news media. Sample news articles presented in the Fall 2013 class
+  are also provided.
+learning_resource_types: []
+ocw_type: CourseSection
 title: News of the Week
 uid: eae3c8f3-9ba0-a705-977f-8f1da2ae956a
 ---

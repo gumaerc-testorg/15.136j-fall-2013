@@ -1,38 +1,25 @@
 ---
 content_type: page
+description: 'This section provides the list of required and recommended readings
+  for each session of the course. '
+draft: false
+learning_resource_types:
+- Readings
+ocw_type: CourseSection
 title: Readings
 uid: 2947c805-f872-6255-a8f2-ca8b8a286944
 ---
-
-{{< tableopen >}}
-{{< theadopen >}}
-{{< tropen >}}
-{{< thopen >}}
+{{< tableopen >}}{{< theadopen >}}{{< tropen >}}{{< thopen >}}
 SES #
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 TOPICS
-{{< thclose >}}
-{{< thopen >}}
+{{< thclose >}}{{< thopen >}}
 READINGS
-{{< thclose >}}
-
-{{< trclose >}}
-
-{{< theadclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< thclose >}}{{< trclose >}}{{< theadclose >}}{{< tbodyopen >}}{{< tropen >}}{{< tdopen >}}
 1
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Introduction From Discovery to Market: An Integrated View
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -40,25 +27,13 @@ Jack, Andrew. "[Pharmaceuticals: Back to the Lab](http://www.ft.com/intl/cms/s/0
 
 Munos, B. "[Lessons from 60 Years of Pharmaceutical Innovation](http://dx.doi.org/10.1038/nrd2961)." _Nature Reviews Drug Discovery_ 8 (2009): 959–68.
 
-U.S. Food and Drug Administration. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"FY 2011 Innovative Drug Approvals." (PDF - 5.0MB)](http://www.biopreneur.org/images/FY%202011%20Innovative%20Drug%20Approvals.pdf) U.S. Department of Health and Human Services, U.S. Food and Drug Administration.
+U.S. Food and Drug Administration. ["FY 2011 Innovative Drug Approvals." (PDF - 5.0MB)](http://www.biopreneur.org/images/FY%202011%20Innovative%20Drug%20Approvals.pdf) U.S. Department of Health and Human Services, U.S. Food and Drug Administration.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 2
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Brief Economic History of the Pharmaceutical Industry
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -66,41 +41,19 @@ Rang, H. P., ed. Chapters 1–3 in _Drug Discovery and Development: Technology i
 
 Saftlas, Herman. "Healthcare: Pharmaceuticals." _Standard & Poor's Industry Surveys_. June 4, 2009. _S&P Net Advantage_.
 
-U.S. Food and Drug Administration. [![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"FY 2011 Innovative Drug Approvals." (PDF - 5.0MB)](http://www.fda.gov/downloads/AboutFDA/ReportsManualsForms/Reports/UCM278358.pdf) U.S. Department of Health and Human Services, U.S. Food and Drug Administration.
+U.S. Food and Drug Administration. ["FY 2011 Innovative Drug Approvals." (PDF - 5.0MB)](http://www.fda.gov/downloads/AboutFDA/ReportsManualsForms/Reports/UCM278358.pdf) U.S. Department of Health and Human Services, U.S. Food and Drug Administration.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 The Pharmaceutical Industry and the Drug Development Process; Basic Science
-
-
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 No Readings
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 4
-{{< tdclose >}}
-{{< tdopen >}}
-
-
+{{< tdclose >}}{{< tdopen >}}
 Business of Biopharmaceuticals
-
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -116,47 +69,27 @@ Silberman, Steve. "[Placebos are Getting More Effective. Drugmakers are Desperat
 
 ### Recommended
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)Merck & Schering-Plough Merger Investor Presentation (PDF)](http://media.corporate-ir.net/media_files/irol/89/89839/FINAL_Merck_Schering-Plough_Presentation.pdf) March 9, 2009. Merck Schering-Plough.
+[Merck & Schering-Plough Merger Investor Presentation (PDF)](http://media.corporate-ir.net/media_files/irol/89/89839/FINAL_Merck_Schering-Plough_Presentation.pdf) March 9, 2009. Merck Schering-Plough.
 
 Schoeberl, B., E. A. Pace, et al. "[Therapeutically Targeting ErbB3: A Key Node in Ligand-Induced Activation of the ErbB Receptor–PI3K Axis](http://dx.doi.org/10.1126/scisignal.2000352)." _Science Signaling_ 77, no. 2 (2009): ra31.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 5
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Accelerating Cancer Cures: A Global Frontier
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Skloot, Rebecca. "[_About The Immortal Life of Henrietta Lacks_](http://rebeccaskloot.com/the-immortal-life/)."
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 6
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Clinical Drug Development
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Burton, Thomas M. "[By Learning from Failures, Lilly Keeps Drug Pipeline Full](http://online.wsj.com/articles/SB108249266648388235)," _Wall Street Journal_, April 21, 2004.
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 7
-{{< tdclose >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< tdopen >}}
 Drug Delivery Systems
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Recommended
 
@@ -164,16 +97,9 @@ Alves, S., E. Régulier, et al. "[Striatal and Nigral Pathology in a Lentiviral 
 
 Moreira, J. N., A. Santos, et al. "[Non-Viral Lipid-Based Nanoparticles for Targeted Cancer Systemic Gene Silencing](http://cnc.cj.uc.pt/msbiocel/private/LabRot/JNN08.pdf)." _Journal of Nanoscience and Nanotechnology_ 8, no. 18 (2008): 2187–204.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 8–10
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Regulation
 
@@ -185,10 +111,7 @@ Reimbursement
 
 Emerging Pharmaceutical Science and Technology II
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -210,16 +133,9 @@ Philippidis, Alex. "[Researchers Chafe as NIH Budgets Shrivel](http://www.geneng
 
 "Universities Stepping Up Efforts To Discover Drugs," _Forbes_, October 21, 2013.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-{{< tropen >}}
-{{< tdopen >}}
+{{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 11–13
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 Manufacturing II
 
@@ -227,10 +143,7 @@ Manufacturing III
 
 Student Presentations
 
-
-{{< tdclose >}}
-{{< tdopen >}}
-
+{{< tdclose >}}{{< tdopen >}}
 
 ### Required
 
@@ -244,21 +157,16 @@ Thomas, Katie. "[Lapses at Big Drug Factories Add to Shortages and Danger](http:
 
 Basu, P., G. Joglekar, et al. "[Analysis of Manufacturing Costs in Pharmaceutical Companies](http://dx.doi.org/10.1007/s12247-008-9024-4)." _Journal of Pharmaceutical Innovation_ 3, no. 1 (2008): 30–40.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Quality Manufacturing: A Blockbuster Opportunity for Pharmaceuticals, An Economist Intelligence Unit White Paper Written in Co-operation with Oracle." (PDF)](http://graphics.eiu.com/files/ad_pdfs/eiu_oracle_pharma_wp.pdf) _Economist Intelligence Unit, The Economist_, September 2005.
+["Quality Manufacturing: A Blockbuster Opportunity for Pharmaceuticals, An Economist Intelligence Unit White Paper Written in Co-operation with Oracle." (PDF)](http://graphics.eiu.com/files/ad_pdfs/eiu_oracle_pharma_wp.pdf) _Economist Intelligence Unit, The Economist_, September 2005.
 
-"[Business: Trouble in the Making; Pharmaceuticals](http://www.economist.com/node/1302425)." _The Economis_t 364, no. 8288 (2002).
+"[Business: Trouble in the Making; Pharmaceuticals](http://www.economist.com/node/1302425)." _The Economist_ 364, no. 8288 (2002).
 
 ### Recommended
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Guidance for Industry Q8(R2) Pharmaceutical Development." (PDF)](http://www.fda.gov/downloads/Drugs/Guidances/ucm073507.pdf) ICH Revision 2. U.S. Department of Health and Human Services, Food and Drug Administration, November 2009.
+["Guidance for Industry Q8(R2) Pharmaceutical Development." (PDF)](http://www.fda.gov/downloads/Drugs/Guidances/ucm073507.pdf) ICH Revision 2. U.S. Department of Health and Human Services, Food and Drug Administration, November 2009.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Guidance for Industry Q9 Quality Risk Management." (PDF)](https://www.fda.gov/media/71543/download) ICH. U.S. Department of Health and Human Services, Food and Drug Administration, June 2006.
+["Guidance for Industry Q9 Quality Risk Management." (PDF)](https://www.fda.gov/media/71543/download) ICH. U.S. Department of Health and Human Services, Food and Drug Administration, June 2006.
 
-[![This resource may not render correctly in a screen reader.](/images/inacessible.gif)"Guidance for Industry Q10 Pharmaceutical Quality System." (PDF)](http://www.fda.gov/downloads/Drugs/Guidances/ucm073517.pdf) ICH. U.S. Department of Health and Human Services, Food and Drug Administration, April 2009.
+["Guidance for Industry Q10 Pharmaceutical Quality System." (PDF)](http://www.fda.gov/downloads/Drugs/Guidances/ucm073517.pdf) ICH. U.S. Department of Health and Human Services, Food and Drug Administration, April 2009.
 
-
-{{< tdclose >}}
-
-{{< trclose >}}
-
-{{< tableclose >}}
+{{< tdclose >}}{{< trclose >}}{{< tbodyclose >}}{{< tableclose >}}
