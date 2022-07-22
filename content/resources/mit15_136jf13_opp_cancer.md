@@ -5,6 +5,7 @@ file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/d11
 file_type: application/pdf
 learning_resource_types:
 - Projects
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Projects
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Opportunities in Cancer
 uid: d114a2b0-accf-6c18-1134-757977d03a7a
 ---
 This resource contains the information regarding opportunities in cancer
-

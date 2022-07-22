@@ -6,6 +6,7 @@ file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/c43
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -15,4 +16,3 @@ title: The Evolving Economics of Pharmaceuticals, Lecture 2
 uid: c43f285e-a020-6c1a-ab38-3a2a20ddd4d4
 ---
 This file contains the information regarding The Evolving Economics of Pharmaceuticals.
-

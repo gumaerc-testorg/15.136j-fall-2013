@@ -6,6 +6,7 @@ file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/dc7
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -16,4 +17,3 @@ title: History and Overview of the Pharmaceutical/Biotechnology Industry, Lectur
 uid: dc7b6c4e-b23e-4d24-94d5-97d32135ce6f
 ---
 This file contains the information regarding History and Overview of the Pharmaceutical / Biotechnology Industry, Lecture 3.
-

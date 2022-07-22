@@ -5,6 +5,7 @@ file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/d8b
 file_type: application/pdf
 learning_resource_types:
 - Lecture Notes
+license: https://creativecommons.org/licenses/by-nc-sa/4.0/
 ocw_type: OCWFile
 parent_title: Lecture Notes
 parent_type: CourseSection
@@ -14,4 +15,3 @@ title: Comparative Effectiveness, Lecture 8
 uid: d8bea070-e3cf-841a-e8d4-ce43d642b9e1
 ---
 This file contains the information regarding Comparative Effectiveness.
-
