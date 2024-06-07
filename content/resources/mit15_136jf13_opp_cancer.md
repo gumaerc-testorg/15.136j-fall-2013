@@ -2,6 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding opportunities in cancer
 file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/d114a2b0accf6c181134757977d03a7a_MIT15_136JF13_Opp_Cancer.pdf
+file_size: 158386
 file_type: application/pdf
 learning_resource_types:
 - Projects
