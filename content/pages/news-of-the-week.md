@@ -65,9 +65,9 @@ Brief economic history of the pharmaceutical industry
 {{< tdopen >}}
 
 
-Pollack, Andrew. "[FDA Approves Drug, Abraxane, for Late Stage Pancreatic Cancer](http://www.nytimes.com/2013/09/07/business/fda-approves-drug-for-late-stage-pancreatic-cancer.html?_r=0)," _New York Times_, September 6, 2013.
+Pollack, Andrew. "{{% resource_link "817fcc7a-2446-40fc-a9aa-7581dc2ea500" "FDA Approves Drug, Abraxane, for Late Stage Pancreatic Cancer" %}}," _New York Times_, September 6, 2013.
 
-"[Japan's Otsuka Pharmaceutical Set to Buy US Drugmaker Astex](http://www.ft.com/cms/s/0/155636ec-1612-11e3-856f-00144feabdc0.html#axzz3F75yDB8q)," _Financial Times_, September 5, 2013.
+"{{% resource_link "e9a989af-9ec9-4560-9db9-27787d48a5b0" "Japan's Otsuka Pharmaceutical Set to Buy US Drugmaker Astex" %}}," _Financial Times_, September 5, 2013.
 
 
 {{< tdclose >}}
@@ -93,7 +93,7 @@ Basic Science
 Business of Biopharmaceuticals
 {{< tdclose >}}
 {{< tdopen >}}
-"[The Cost Of Creating A New Drug Now $5 Billion, Pushing Big Pharma To Change](http://www.forbes.com/sites/matthewherper/2013/08/11/how-the-staggering-cost-of-inventing-new-drugs-is-shaping-the-future-of-medicine/)," _Forbes_, August 11, 2013, Business section.
+"{{% resource_link "a1ab6adf-5d0c-4fe4-ba89-800ab8534220" "The Cost Of Creating A New Drug Now $5 Billion, Pushing Big Pharma To Change" %}}," _Forbes_, August 11, 2013, Business section.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -107,9 +107,9 @@ Accelerating Cancer Cures: A Global Frontier
 {{< tdopen >}}
 
 
-"[Lilly's Experimental Cancer Drug Misses Target](https://www.wsj.com/articles/no-headline-available-1380196087)," _Wall Street Journal_, September 26, 2013.
+"{{% resource_link "9f2aec61-76e3-4266-9975-d305dd093789" "Lilly's Experimental Cancer Drug Misses Target" %}}," _Wall Street Journal_, September 26, 2013.
 
-"[Lilly Announces Second Positive Ramucirumab Phase III Gastric Cancer StudyMeets Primary Endpoint](http://article.wn.com/view/2013/09/26/Lilly_Announces_Second_Positive_Ramucirumab_Phase_III_Gastri_v/)," _PR Newswire (Press Release)_, September 26, 2013.
+"{{% resource_link "5a0fa25b-f240-450f-96fd-d176cb3319da" "Lilly Announces Second Positive Ramucirumab Phase III Gastric Cancer StudyMeets Primary Endpoint" %}}," _PR Newswire (Press Release)_, September 26, 2013.
 
 
 {{< tdclose >}}
@@ -125,13 +125,13 @@ Clinical Drug Development
 {{< tdopen >}}
 
 
-"[UK Firm Seeks to Market World's First Malaria Vaccine](http://www.bbc.com/news/health-24431510)," _BBC News Health_, October 8, 2013.
+"{{% resource_link "3dad53ae-916d-471d-b875-e8d52aee89af" "UK Firm Seeks to Market World's First Malaria Vaccine" %}}," _BBC News Health_, October 8, 2013.
 
-"[PheWAS–the Tool That Is Revolutionizing Drug Development That You've Likely Never Heard Of](http://www.fiercebiotech.com/story/industry-voices-phewas-tool-thats-revolutionizing-drug-development-youve-li/2013-10-03)," _FierceBiotech_, October 3, 2013.
+"{{% resource_link "cc934972-b92d-4208-a254-eaeeda998bfe" "PheWAS–the Tool That Is Revolutionizing Drug Development That You've Likely Never Heard Of" %}}," _FierceBiotech_, October 3, 2013.
 
-"[Shutdown Halts NIH Drug Trials as Researchers Hit Brakes on Preclinical Research](http://www.fiercebiotech.com/story/shutdown-means-no-new-nih-trials-halted-preclinical-research/2013-10-03)," _FierceBiotech_, October 3, 2013.
+"{{% resource_link "ee73b37b-7c23-4be9-b702-a9fab32bac9b" "Shutdown Halts NIH Drug Trials as Researchers Hit Brakes on Preclinical Research" %}}," _FierceBiotech_, October 3, 2013.
 
-"[Amgen Starts Another Phase III Trial for Biosimilar Adalimumab](http://www.gabionline.net/Biosimilars/News/Amgen-to-start-phase-III-trial-for-biosimilar-adalimumab)," GaBI Online, September 27, 2013.
+"{{% resource_link "ab9925f2-df85-4191-93a0-ffc97997a5d1" "Amgen Starts Another Phase III Trial for Biosimilar Adalimumab" %}}," GaBI Online, September 27, 2013.
 
 
 {{< tdclose >}}
@@ -147,9 +147,9 @@ Drug Delivery Systems
 {{< tdopen >}}
 
 
-Abbott, A. "[Novartis Reboots Brain Division](http://dx.doi.org/10.1038/502153a)." _Nature News_ 502, no. 7470 (2013): 153–54.
+Abbott, A. "{{% resource_link "8cc74966-44f1-4aed-abf4-912d39ca5b6c" "Novartis Reboots Brain Division" %}}." _Nature News_ 502, no. 7470 (2013): 153–54.
 
-"[Regeneron, Sanofi Drug Slashes Cholesterol in Late-stage Trial](https://www.reuters.com/article/us-regeneron-sanofi-cholesterol/regeneron-sanofi-drug-slashes-cholesterol-in-late-stage-trial-idUSBRE99F04220131016)," _Reuters_, October 16, 2013.
+"{{% resource_link "0fd6b7e4-dbdd-471d-bdc0-9e4add38b2d3" "Regeneron, Sanofi Drug Slashes Cholesterol in Late-stage Trial" %}}," _Reuters_, October 16, 2013.
 
 
 {{< tdclose >}}
@@ -165,9 +165,9 @@ Regulation
 {{< tdopen >}}
 
 
-"[FDA Approves First New Atherectomy Device In 20 Years](http://www.forbes.com/sites/larryhusten/2013/10/22/fda-approves-first-new-atherectomy-device-in-20-years/)," _Forbes_, October 22, 2013.
+"{{% resource_link "058af6ea-701d-42f4-9a9f-3ff0ff940ba8" "FDA Approves First New Atherectomy Device In 20 Years" %}}," _Forbes_, October 22, 2013.
 
-"[Amarin Slashes Staff by Half After FDA Panel Rejection](http://www.fiercepharma.com/story/amarin-slashes-staff-half/2013-10-22)," _FiercePharma_, October 22, 2013.
+"{{% resource_link "c3dcd18c-aa1e-4ad7-997f-03678d89313b" "Amarin Slashes Staff by Half After FDA Panel Rejection" %}}," _FiercePharma_, October 22, 2013.
 
 
 {{< tdclose >}}
@@ -183,9 +183,9 @@ Manufacturing I
 {{< tdopen >}}
 
 
-"[Array Biopharma Outlines Path To Market For New Myeloma Drug](http://www.forbes.com/sites/matthewherper/2013/10/31/array-biopharma-outlines-path-to-market-for-new-myeloma-drug/)," _Forbes_, October 31, 2013.
+"{{% resource_link "62cdd517-0837-40af-9982-78fdb4f74a5f" "Array Biopharma Outlines Path To Market For New Myeloma Drug" %}}," _Forbes_, October 31, 2013.
 
-"[Eli Lilly: Cymbalta Patent Expiry Quantified](https://seekingalpha.com/article/1778932-eli-lilly-cymbalta-patent-expiry-quantified)," _Seeking Alpha_, October 28, 2013.
+"{{% resource_link "5a68922d-21fd-4871-a32e-0576d86be8a8" "Eli Lilly: Cymbalta Patent Expiry Quantified" %}}," _Seeking Alpha_, October 28, 2013.
 {{< tdclose >}}
 
 {{< trclose >}}
@@ -199,9 +199,9 @@ Reimbursement
 {{< tdopen >}}
 
 
-"[Stapled Peptide Reactivates p53](http://www.nature.com/nrd/journal/v12/n10/full/nrd4133.html)." _Nature Reviews Drug Discovery_ 12, no. 741 (2013).
+"{{% resource_link "e3b929d6-dca8-45cc-ad6e-9cd73dc11caa" "Stapled Peptide Reactivates p53" %}}." _Nature Reviews Drug Discovery_ 12, no. 741 (2013).
 
-Jensen, V. "[A New Plan for Drug Shortages to Build on FDA's Success](http://blogs.fda.gov/fdavoice/index.php/2013/10/a-new-plan-for-drug-shortages-to-build-on-fdas-success/)," _FDA Voice_, October 13, 2013.
+Jensen, V. "{{% resource_link "c7bd1f62-5915-4de8-8028-a19869b033e2" "A New Plan for Drug Shortages to Build on FDA's Success" %}}," _FDA Voice_, October 13, 2013.
 
 
 {{< tdclose >}}
@@ -217,9 +217,9 @@ Manufacturing II
 {{< tdopen >}}
 
 
-"[Novartis Hives Off Blood Diagnostics for $1.7B in First Slim-down Sale](http://www.fiercepharma.com/story/novartis-hives-blood-diagnostics-17b-first-slim-down-sale/2013-11-11)," _FiercePharma_, November 11, 2013.
+"{{% resource_link "99782743-024e-4d52-b727-eae5ada3bcc7" "Novartis Hives Off Blood Diagnostics for $1.7B in First Slim-down Sale" %}}," _FiercePharma_, November 11, 2013.
 
-"[F. D. A. Ruling Would All but Eliminate Trans Fats](http://www.nytimes.com/2013/11/08/health/fda-trans-fats.html?pagewanted=all)," _New York Times_, November 7, 2013, Health.
+"{{% resource_link "7ab93cd7-6239-483e-a9c5-f76250ac85af" "F. D. A. Ruling Would All but Eliminate Trans Fats" %}}," _New York Times_, November 7, 2013, Health.
 
 
 {{< tdclose >}}
@@ -235,9 +235,9 @@ Manufacturing III
 {{< tdopen >}}
 
 
-"[Princeton May Offer Meningitis B Vaccine After Seventh Case](http://www.bloomberg.com/news/2013-11-18/princeton-university-awaits-word-on-meningitis-vaccine.html)," _Bloomberg_, November 18, 2013.
+"{{% resource_link "1cdbbc6c-286c-4150-8611-e3ae12384300" "Princeton May Offer Meningitis B Vaccine After Seventh Case" %}}," _Bloomberg_, November 18, 2013.
 
-"[Cholesterol Drug From Trash Seen Preventing Heart Attack](http://www.bloomberg.com/news/2013-11-20/cholesterol-drug-from-trash-seen-preventing-heart-attack-health.html)," _Bloomberg_, November 21, 2013.
+"{{% resource_link "5dc1157c-8e27-4790-8da3-5742035e6bfb" "Cholesterol Drug From Trash Seen Preventing Heart Attack" %}}," _Bloomberg_, November 21, 2013.
 
 
 {{< tdclose >}}
