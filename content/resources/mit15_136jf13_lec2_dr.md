@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding The Evolving Economics of
   Pharmaceuticals.
-file: /ol-ocw-studio-app/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/c43f285ea0206c1aab383a2a20ddd4d4_MIT15_136JF13_Lec2_Dr.pdf
+file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/c43f285ea0206c1aab383a2a20ddd4d4_MIT15_136JF13_Lec2_Dr.pdf
 file_size: 1543135
 file_type: application/pdf
 learning_resource_types:
