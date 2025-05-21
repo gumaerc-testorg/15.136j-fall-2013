@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This file contains the information regarding Comparative Effectiveness.
-file: /ol-ocw-studio-app/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/d8bea070e3cf841ae8d4ce43d642b9e1_MIT15_136JF13_Lec8_Comp.pdf
+file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/d8bea070e3cf841ae8d4ce43d642b9e1_MIT15_136JF13_Lec8_Comp.pdf
 file_size: 719911
 file_type: application/pdf
 learning_resource_types:

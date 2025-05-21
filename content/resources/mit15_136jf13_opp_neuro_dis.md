@@ -2,7 +2,7 @@
 content_type: resource
 description: This resource contains the information regarding opportunities in neurological
   diseases.
-file: /ol-ocw-studio-app/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/8bf8d8ef89fdc4f91768173b37374364_MIT15_136JF13_Opp_Neuro_Dis.pdf
+file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/8bf8d8ef89fdc4f91768173b37374364_MIT15_136JF13_Opp_Neuro_Dis.pdf
 file_size: 94391
 file_type: application/pdf
 learning_resource_types:
