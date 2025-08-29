@@ -1,7 +1,7 @@
 ---
 content_type: resource
 description: This resource contains the information regarding opportunities in diabetes.
-file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/8190f61c9874b057a389059043ffa23a_MIT15_136JF13_Opp_Diab.pdf
+file: /ol-ocw-studio-app/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/8190f61c9874b057a389059043ffa23a_MIT15_136JF13_Opp_Diab.pdf
 file_size: 95988
 file_type: application/pdf
 learning_resource_types:
