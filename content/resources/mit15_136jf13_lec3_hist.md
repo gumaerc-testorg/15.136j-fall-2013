@@ -2,7 +2,7 @@
 content_type: resource
 description: This file contains the information regarding History and Overview of
   the Pharmaceutical / Biotechnology Industry, Lecture 3.
-file: /courses/15-136j-principles-and-practice-of-drug-development-fall-2013/dc7b6c4eb23e4d2494d597d32135ce6f_MIT15_136JF13_Lec3_Hist.pdf
+file: /ol-ocw-studio-app/courses/15-136j-principles-and-practice-of-drug-development-fall-2013/dc7b6c4eb23e4d2494d597d32135ce6f_MIT15_136JF13_Lec3_Hist.pdf
 file_size: 3188647
 file_type: application/pdf
 learning_resource_types:
