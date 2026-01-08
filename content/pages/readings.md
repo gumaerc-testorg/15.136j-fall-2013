@@ -41,7 +41,7 @@ Rang, H. P., ed. Chapters 1–3 in *Drug Discovery and Development: Technology i
 
 Saftlas, Herman. "Healthcare: Pharmaceuticals." *Standard & Poor's Industry Surveys*. June 4, 2009. *S&P Net Advantage*.
 
-U.S. Food and Drug Administration. {{% resource_link "b3da38ba-1fb5-49a1-87dd-743b77b732df" "\"FY 2011 Innovative Drug Approvals.\" (PDF - 5.0MB)" %}} U.S. Department of Health and Human Services, U.S. Food and Drug Administration.
+U.S. Food and Drug Administration. ["FY 2011 Innovative Drug Approvals." (PDF - 5.0MB)](https://www.biopreneur.org/images/FY%202011%20Innovative%20Drug%20Approvals.pdf) U.S. Department of Health and Human Services, U.S. Food and Drug Administration.
 
 {{< tdclose >}}{{< trclose >}}{{< tropen >}}{{< tdopen >}}
 3
